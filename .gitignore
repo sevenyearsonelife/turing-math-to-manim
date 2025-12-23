@@ -52,6 +52,17 @@ media/images/
 media/*.html
 media/*.jpg
 media/*.png
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.avi
+*.webm
+*.pdf
+*.tex
+*.log
 
 # Generated GIF and other binary files
 public/*.gif
