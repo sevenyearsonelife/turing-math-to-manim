@@ -30,7 +30,8 @@ env/
 ENV/
 .venv/
 
-linus/
+linus/output/
+linus/media/
 # IDE
 .idea/
 .vscode/
